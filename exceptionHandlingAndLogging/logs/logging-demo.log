@@ -1,0 +1,10 @@
+2020-02-24 20:32:23 DEBUG exceptionHandlingAndLogging.App:16 - This is debugger
+2020-02-24 20:32:23 INFO  exceptionHandlingAndLogging.App:17 - This is Info
+2020-02-24 20:32:23 WARN  exceptionHandlingAndLogging.App:18 - This is warn
+2020-02-24 20:32:23 ERROR exceptionHandlingAndLogging.App:19 - This is error
+2020-02-24 20:32:23 FATAL exceptionHandlingAndLogging.App:20 - This is fatal
+2020-02-24 20:33:54 DEBUG exceptionHandlingAndLogging.App:16 - This is debugger
+2020-02-24 20:33:54 INFO  exceptionHandlingAndLogging.App:17 - This is Info
+2020-02-24 20:33:54 WARN  exceptionHandlingAndLogging.App:18 - This is warn
+2020-02-24 20:33:54 ERROR exceptionHandlingAndLogging.App:19 - This is error
+2020-02-24 20:33:54 FATAL exceptionHandlingAndLogging.App:20 - This is fatal
